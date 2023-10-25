@@ -1,0 +1,21 @@
+{
+  "name": "sharif-python-vscode-theme",
+  "displayName": "Sharif Python Vscode theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Python Vscode color theme based on monokai dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Python Vscode color theme based on monokai dark-color-theme.json"
+      }
+    ]
+  }
+}
